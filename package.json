@@ -1,0 +1,6 @@
+{
+  "name": "reporting-experiments",
+  "dependencies": {
+    "@dataform/core": "2.0.1"
+  }
+}
