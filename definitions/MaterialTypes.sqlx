@@ -1,0 +1,5 @@
+config {
+  type: "view",
+}
+
+SELECT * from `svadhyaya.REPORTING_STG.MaterialTypesMD`
